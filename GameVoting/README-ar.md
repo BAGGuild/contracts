@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BAG Guild Logo](https://via.placeholder.com/200x100/1a1a1a/ffffff?text=BAG+Guild)
+![BAG Guild Logo](https://dapp.bagguild.com/images/logo/logo.png)
 
 **نظام تصويت ذكي وعادل للألعاب مع آلية سحب يومية**
 
