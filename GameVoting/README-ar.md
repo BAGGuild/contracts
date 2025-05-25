@@ -260,7 +260,7 @@ npx hardhat test --gas-reporter
 
 ### 🐛 الإبلاغ عن الأخطاء
 
-يرجى استخدام [GitHub Issues](https://github.com/BAGGuild/game-voting-system/issues) للإبلاغ عن:
+يرجى استخدام [GitHub Issues](https://github.com/BAGGuild/contracts/issues) للإبلاغ عن:
 - 🐞 الأخطاء والمشاكل
 - 💡 اقتراحات التحسين
 - 🔧 طلبات الميزات الجديدة
@@ -286,7 +286,7 @@ npx hardhat test --gas-reporter
 ```
 رخصة MIT
 
-حقوق النشر (c) 2024 BAG Guild
+حقوق النشر (c) 2025 BAG Guild
 
 يُمنح بموجب هذا، مجاناً، لأي شخص يحصل على نسخة
 من هذا البرنامج وملفات التوثيق المرتبطة ("البرنامج")، التعامل
@@ -296,7 +296,7 @@ npx hardhat test --gas-reporter
 ## 🌐 الروابط المهمة
 
 - 🏠 **الموقع الرسمي**: [https://bagguild.com](https://bagguild.com)
-- 📱 **التطبيق**: [https://app.bagguild.com](https://app.bagguild.com)
+- 📱 **التطبيق**: [https://Dapp.bagguild.com](https://Dapp.bagguild.com)
 - 🐦 **تويتر**: [@BAGGuild](https://twitter.com/BAGGuild)
 - 💬 **ديسكورد**: [BAG Guild Discord](https://discord.gg/BAGGuild)
 - 📘 **التوثيق**: [https://docs.bagguild.com](https://docs.bagguild.com)
@@ -312,10 +312,10 @@ npx hardhat test --gas-reporter
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/BAGGuild/game-voting-system)
-![GitHub forks](https://img.shields.io/github/forks/BAGGuild/game-voting-system)
-![GitHub issues](https://img.shields.io/github/issues/BAGGuild/game-voting-system)
-![GitHub license](https://img.shields.io/github/license/BAGGuild/game-voting-system)
+![GitHub stars](https://img.shields.io/github/stars/BAGGuild/contracts)
+![GitHub forks](https://img.shields.io/github/forks/BAGGuild/contracts)
+![GitHub issues](https://img.shields.io/github/issues/BAGGuild/contracts)
+![GitHub license](https://img.shields.io/github/license/BAGGuild/contracts)
 
 **🎯 رؤيتنا: مستقبل أفضل للألعاب مع التكنولوجيا اللامركزية**
 

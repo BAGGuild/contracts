@@ -260,7 +260,7 @@ We welcome your contributions! 🎉
 
 ### 🐛 Bug Reports
 
-Please use [GitHub Issues](https://github.com/BAGGuild/game-voting-system/issues) to report:
+Please use [GitHub Issues](https://github.com/BAGGuild/contracts/issues) to report:
 - 🐞 Bugs and issues
 - 💡 Enhancement suggestions
 - 🔧 Feature requests
@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 BAG Guild
+Copyright (c) 2025 BAG Guild
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -296,7 +296,7 @@ in the Software without restriction...
 ## 🌐 Important Links
 
 - 🏠 **Official Website**: [https://bagguild.com](https://bagguild.com)
-- 📱 **App**: [https://app.bagguild.com](https://app.bagguild.com)
+- 📱 **Dapp**: [https://app.bagguild.com](https://dapp.bagguild.com)
 - 🐦 **Twitter**: [@BAGGuild](https://twitter.com/BAGGuild)
 - 💬 **Discord**: [BAG Guild Discord](https://discord.gg/BAGGuild)
 - 📘 **Documentation**: [https://docs.bagguild.com](https://docs.bagguild.com)
@@ -312,10 +312,10 @@ in the Software without restriction...
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/BAGGuild/game-voting-system)
-![GitHub forks](https://img.shields.io/github/forks/BAGGuild/game-voting-system)
-![GitHub issues](https://img.shields.io/github/issues/BAGGuild/game-voting-system)
-![GitHub license](https://img.shields.io/github/license/BAGGuild/game-voting-system)
+![GitHub stars](https://img.shields.io/github/stars/BAGGuild/contracts)
+![GitHub forks](https://img.shields.io/github/forks/BAGGuild/contracts)
+![GitHub issues](https://img.shields.io/github/issues/BAGGuild/contracts)
+![GitHub license](https://img.shields.io/github/license/BAGGuild/contracts)
 
 **🎯 Our Vision: A Better Future for Gaming with Decentralized Technology**
 
