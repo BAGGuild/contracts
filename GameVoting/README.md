@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BAG Guild Logo](https://dapp.bagguild.com/images/logo/logo.png)
+<img src="https://dapp.bagguild.com/images/logo/logo.png" alt="BAG Guild Logo" width="200"/>
 
 **Smart and Fair Game Voting System with Daily Draw Mechanics**
 
